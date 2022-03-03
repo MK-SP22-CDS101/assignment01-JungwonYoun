@@ -49,7 +49,10 @@ The output of first line of code is not printed out because it is assigned to a 
 
 The second line of output is printed out instead, but this means that the calculated value has not been saved for future use.
 
-
+**3.2 Displaying Graphs**
+```{r}
+ggplot2::qplot(data = iris, x = Sepal.Length, y = Sepal.Width)
+```
 
  
 
