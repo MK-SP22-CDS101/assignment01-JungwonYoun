@@ -34,7 +34,7 @@ urlcolor: blue
 By the end of the course, students will be able to :
 
 * Use [GitHub](https://github.com/) for creating a reproducible research document.
- + My GitHub username is: *write_your_github_username_here_in_italic_text*
+    + My GitHub username is: *write_your_github_username_here_in_italic_text*
 * Obtain, clean, transform, and visualize a dataset using the R progamming language.
 * Interpret and predict dataset trends using statistical inference and models.
 * Critically examine and interpret statistical claims reported in mass media.
